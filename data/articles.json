@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Discover Iceland",
+        "author": "John Doe",
+        "date": "2025-01-10",
+        "image": "./images/hero-image.jpg",
+        "content": "Iceland is a land of fire and ice, offering a unique blend of volcanoes, glaciers, hot springs, and stunning landscapes..."
+    },
+    {
+        "title": "Exploring Africa",
+        "author": "Jane Smith",
+        "date": "2025-01-08",
+        "image": "./images/hero-image.jpg",
+        "content": "Africa is a vast continent with diverse cultures, wildlife, and breathtaking scenery..."
+    }
+]
